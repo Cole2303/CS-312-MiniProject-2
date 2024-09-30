@@ -1,0 +1,19 @@
+{
+    "name": "my-api-project",
+    "version": "1.0.0",
+    "description": "A simple Node.js app with Express and Axios",
+    "main": "app.js",
+    "scripts": 
+    {
+      "start": "node app.js"
+    },
+    "author": "Your Name",
+    "license": "ISC",
+    "dependencies": 
+    {
+      "axios": "^1.2.0",
+      "ejs": "^3.1.0",
+      "express": "^4.17.1"
+    }
+  }
+  
